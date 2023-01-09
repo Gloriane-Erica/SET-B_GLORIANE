@@ -1,0 +1,11 @@
+{
+  "name": "set-b_gloriane",
+  "version": "1.0.0",
+  "description": "Create a node.js application that utilize a file as data input see (f-01). Your app should generate and process from data input see (o-01). Modify your package.json.",
+  "main": "exam.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erica Joy Gloriane",
+  "license": "ISC"
+}
